@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+pycoingecko
+statsmodels
+prophet
+tensorflow
+scikit-learn
+streamlit
+textblob
+python-dotenv
